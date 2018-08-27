@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstaBran</string>
+    <string name="post">Post</string>
+    <string name="take_picture">Take Pic</string>
+    <string name="must_be_logged_in">Must be Logged In</string>
+    <string name="signed_in_as">Signed In As</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_anonymously">Anonymous Account</string>
+    <string name="proceed_to_feed">Proceed to Feed</string>
+    <string name="logout">Log Out</string>
+</resources>

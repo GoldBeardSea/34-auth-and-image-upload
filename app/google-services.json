@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635554489415",
+    "firebase_url": "https://auth-and-image-upload-3ec87.firebaseio.com",
+    "project_id": "auth-and-image-upload-3ec87",
+    "storage_bucket": "auth-and-image-upload-3ec87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635554489415:android:7cab3e682bf44217",
+        "android_client_info": {
+          "package_name": "com.gbbeard.instabran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635554489415-ko4ssgu0sf79ru3c22knij0ahnbjscv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbbeard.instabran",
+            "certificate_hash": "14a7f17e9d33c00762eeb411482bfe69d2a182c9"
+          }
+        },
+        {
+          "client_id": "635554489415-ftud21tqt1t97l2051ji9aaj5bncad1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaZfj2f1KWRQvbnDMkxruJldkvn76dxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635554489415-ftud21tqt1t97l2051ji9aaj5bncad1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
